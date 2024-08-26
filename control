@@ -1,0 +1,10 @@
+Package: com.nightwind.lockbuttonx
+Name: LockButtonX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
+Depends: ${ORION}, firmware (>= 12.2)

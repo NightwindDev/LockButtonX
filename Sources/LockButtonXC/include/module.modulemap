@@ -1,0 +1,4 @@
+module LockButtonXC {
+    umbrella "."
+    export *
+}
